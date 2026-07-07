@@ -10,19 +10,19 @@ A sleek, responsive, and modern personal portfolio website built with React.js.
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](images/screenshot1.jpg)
+![Home Page](images/s1.png)
 
 ### About Me
-![About Me](images/screenshot2.jpg)
+![About Me](images/s2.png)
 
 ### Skills
-![Skills](images/screenshot3.jpg)
+![Skills](images/s3.png)
 
 ### Projects
-![Projects](images/screenshot4.jpg)
+![Projects](images/s4.png)
 
 ### Contact Me
-![Contact Me](images/screenshot5.jpg)
+![Contact Me](images/s5.png)
 
 ---
 
