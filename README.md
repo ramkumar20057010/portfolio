@@ -1,16 +1,49 @@
-# React + Vite
+# Ramkumar.S - Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, responsive, and modern personal portfolio website built with React.js.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+[https://portfolio-iota-nine-80.vercel.app](https://portfolio-iota-nine-80.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 📸 Screenshots
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Home Page
+![Home Page](images/screenshot1.jpg)
 
-## Expanding the ESLint configuration
+### About Me
+![About Me](images/screenshot2.jpg)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Skills
+![Skills](images/screenshot3.jpg)
+
+### Projects
+![Projects](images/screenshot4.jpg)
+
+### Contact Me
+![Contact Me](images/screenshot5.jpg)
+
+---
+
+## 🛠 Features
+- **Responsive Design:** Fully optimized for desktops, tablets, and mobile devices.
+- **Modern UI:** Features a dark-themed aesthetic with neon/glowing accents.
+- **Interactive Sections:**
+    - **About Me:** Professional summary and introduction.
+    - **Skills:** Visual representation of technical proficiencies.
+    - **Projects:** Showcases recent work, including web applications like e-commerce platforms and social media clones.
+    - **Contact:** Clean layout for showcasing contact details.
+- **Deployment:** Fast and reliable hosting on Vercel.
+
+## 💻 Tech Stack
+- **Frontend:** React.js, HTML5, CSS3, JavaScript
+- **Deployment:** Vercel
+
+## 🤝 Contact
+- **Email:** ramkumar20057010@gmail.com
+- **Phone:** +91 70101 13069
+- **Location:** Tirunelveli, Tamil Nadu, India
+
+---
+*Built with passion by Ramkumar S.*
