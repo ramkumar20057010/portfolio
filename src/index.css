@@ -1128,12 +1128,6 @@ body {
         font-size: 14px;
     }
 
-    .download {
-        color: transparent;
-        background: var(--primary);
-        background-clip: text;
-    }
-
     .me h2 {
         color: white;
         background: var(--primary);
