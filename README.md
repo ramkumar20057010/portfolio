@@ -3,8 +3,7 @@
 A sleek, responsive, and modern personal portfolio website built with React.js.
 
 ## 🚀 Live Demo
-
-<a href="https://portfolio-iota-nine-80.vercel.app" target="_blank" rel="noopener noreferrer">View Live Demo</a>
+[https://portfolio-iota-nine-80.vercel.app](https://portfolio-iota-nine-80.vercel.app)
 
 ---
 
