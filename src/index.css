@@ -1785,7 +1785,7 @@ body {
     }
 
     .contdetails h4 {
-        width: 200px;
+        width: max-content;
         color: transparent;
         background: var(--primary);
         background-clip: text;
