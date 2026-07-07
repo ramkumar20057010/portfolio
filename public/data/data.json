@@ -1,0 +1,156 @@
+{
+    "profile": {
+        "name": "Ramkumar S",
+        "role": "Web Developer",
+        "education": "B.sc Comp. Sci",
+        "skills": [
+            {
+                "sid": 101,
+                "sname": "'HTML',"
+            },
+            {
+                "sid": 102,
+                "sname": "'CSS',"
+            },
+            {
+                "sid": 103,
+                "sname": "'JS',"
+            },
+            {
+                "sid": 104,
+                "sname": "'React JS',"
+            },
+            {
+                "sid": 105,
+                "sname": "'Flask',"
+            },
+            {
+                "sid": 106,
+                "sname": "'Java',"
+            },
+            {
+                "sid": 107,
+                "sname": "'Python',"
+            },
+            {
+                "sid": 108,
+                "sname": "'MySQL'"
+            }
+        ]
+    },
+    "skillLevel": [
+        {
+            "sid": 1001,
+            "sname": "HTML5",
+            "percentage": 90,
+            "image": "/data/assets/1.png"
+        },
+        {
+            "sid": 1002,
+            "sname": "CSS3",
+            "percentage": 80,
+            "image": "/data/assets/2.png"
+        },
+        {
+            "sid": 1003,
+            "sname": "JS",
+            "percentage": 75,
+            "image": "/data/assets/3.png"
+        },
+        {
+            "sid": 1004,
+            "sname": "Python",
+            "percentage": 71,
+            "image": "/data/assets/4.png"
+        },
+        {
+            "sid": 1005,
+            "sname": "JAVA",
+            "percentage": 70,
+            "image": "/data/assets/5.png"
+        },
+        {
+            "sid": 1006,
+            "sname": "Flask",
+            "percentage": 70,
+            "image": "/data/assets/6.png"
+        },
+        {
+            "sid": 1007,
+            "sname": "MySQL",
+            "percentage": 60,
+            "image": "/data/assets/7.png"
+        },
+        {
+            "sid": 1008,
+            "sname": "React.JS",
+            "percentage": 68,
+            "image": "/data/assets/8.png"
+        }
+    ],
+    "projects":[
+        {
+            "id":1201,
+            "sname":"mobile",
+            "pname":"Mobile Shopping Web Application",
+            "description": "A full-stack e-commerce application developed with Flask and MySQL that manages product inventories, user authentication, and order processing, with a focus on delivering a high-quality shopping experience.",
+            "image":"/data/assets/mobile.png",
+            "git":"https://github.com/ramkumar20057010/mobile-shopping-internship-project",
+            "linkedin":"https://www.linkedin.com/in/ramkumar7010/details/projects/"
+        },{
+            "id":1202,
+            "sname":"tour",
+            "pname":"Tourism Management System",
+            "description": " A full-stack web application leveraging Flask and MySQL that features a secure booking engine and dynamic package filtering to streamline the user experience for travel bookings.",
+            "image":"/data/assets/tour.png",
+            "git":"https://github.com/ramkumar20057010/Tourism-Management-System",
+            "linkedin":"https://www.linkedin.com/in/ramkumar7010/details/projects/"
+        },{
+            "id":1203,
+            "sname":"bank",
+            "pname":"Bank Management System",
+            "description": " A full-stack web application developed with Flask and MySQL,it includes  loan applications, EMI payments, and transaction management.",
+            "image":"/data/assets/bank.png",
+            "git":"https://github.com/ramkumar20057010/bank-management-system",
+            "linkedin":"https://www.linkedin.com/in/ramkumar7010/details/projects/"
+        },{
+            "id":1204,
+            "sname":"insta",
+            "pname":"Instagram Clone",
+            "description": " A dynamic, responsive social networking web application that replicates core features like posting, liking, commenting, and follower management, built using a lightweight json-server backend.",
+            "image":"/data/assets/insta.png",
+            "git":"https://github.com/ramkumar20057010/instagram-clone",
+            "linkedin":"https://www.linkedin.com/in/ramkumar7010/details/projects/"
+        }
+    ],
+    "projectimage":{
+        "img1":"/data/assets/mobile.png",
+        "img2":"/data/assets/tour.png",
+        "img3":"/data/assets/bank.png",
+        "img4":"/data/assets/insta.png"
+    },
+    "certificates":[
+        {
+            "id":1401,
+            "cname":"Programming in Python (SWAYAM)",
+            "image": "/data/assets/python-certificate.png",
+            "description": "Successfully completed this 4-credit course on Programming in Python, earning a consolidated score of 85% based on continuous online assessments and a proctored examination.",
+            "link":"https://drive.google.com/file/d/1Nc41i7tSPxCgOrOkaqRpEqGX-Ya83Zm6/view?usp=drive_link"
+        },{
+            "id":1402,
+            "cname":"Programming in Java (NPTEL)",
+            "image":"/data/assets/java-certificate.png",
+            "description": "Successfully completed this 12-week NPTEL online certification course offered by IIT Kharagpur, achieving an Elite status with a consolidated score of 79%.",
+            "link":"https://drive.google.com/file/d/1S8wszmVC-cZqi4ay4UDw9Jar0eCf7G03/view?usp=drive_link"
+        }
+    ],
+    "contact":{
+        "email": "ramkumar20057010@gmail.com",
+        "phone": "+91 70101  13069",
+        "git":"https://github.com/ramkumar20057010/",
+        "linkedin": "https://www.linkedin.com/in/ramkumar7010/",
+        "about":"Feel free to reach out to discuss job openings, project concepts, web collaborations, or just to say hello. I'm actively looking for roles and will respond swiftly!",
+        "head":"Let's build something awesome together!",
+        "location":"Triunelveli, Tamil Nadu, India"
+    }
+}
