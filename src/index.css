@@ -264,7 +264,8 @@ body {
     animation: 3s float linear infinite;
     position: relative;
     align-content: center;
-    font-family: cursive;
+    font-style: italic;
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
 .meimg ul {
