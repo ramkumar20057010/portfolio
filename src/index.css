@@ -1785,7 +1785,7 @@ body {
     }
 
     .contdetails h4 {
-        min-width: 250px;
+        width: 200px;
         color: transparent;
         background: var(--primary);
         background-clip: text;
