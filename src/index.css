@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background: rgba(50, 50, 50);
+    background: rgba(40, 40, 40);
     animation: 1s loadup ease-in-out;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
