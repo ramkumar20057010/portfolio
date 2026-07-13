@@ -1661,7 +1661,9 @@ body {
         position: relative;
         perspective: 3000px;
     }
-
+    .slide::after{
+        border-radius:20px;
+    }
     .slide {
         border-radius: 20px;
     }
